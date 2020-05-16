@@ -1,16 +1,9 @@
-# myapp3
+# Bingo Game app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Multiple players can download and play with each other
+2. The app generates the 5\*5 grid with numbers from 1 to 25 randomly arranged on grid.
+3. You can click on the number to cut it.
+4. When any horizontal or diagonal line is cut it automatically detects it and one letter of BINGO is highlited.
+5. It also shows you the number of lines cut, that can exceed 5 for 5 letters of BINGO.
+6. Whose all letters of BINGO gets higlighted first wins the game.
+7. Reset button at the bottom, resets the grid randomly, to play again.
